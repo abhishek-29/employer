@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7243a422-eb0b-444b-acad-38e3c9d2c3a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/employee_manager-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/kotlin/com/example/employeemanager/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/fonts/CircularAir-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/fonts/CircularStd-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/fonts/CircularStd-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/abd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/adds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/announ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/atten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/dues.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/qrscan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/images/rup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/employeeAttendence.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/employeeDashboard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/employeeDues.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/employeeLogin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/employeePayments.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/profileEmployee.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/EmployeeScreens/qrScanner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/models/attendence.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/models/employees.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/models/manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/models/payments.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/addAttendenceScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/addEmployee.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/addPaymentScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/attendenceScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/chooseEmployeeScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/chooseLoginRegister.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/dashboard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/dashboardScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/drawerscreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/duesScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/employeeProfile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/employeesScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/makeAnnouncement.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/paymentDetail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/paymentsScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/profileScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/qrCodeScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/settingsScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/screens/signup.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/utils/configs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/utils/employeeCRUD.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/lib/utils/firestoreCrud.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_manager-master/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ucc1sH5HbNlwMllopLOomdWJSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7243a422-eb0b-444b-acad-38e3c9d2c3a8" name="Default Changelist" comment="" />
+      <created>1624968105956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624968105956</updated>
+    </task>
+    <servers />
+  </component>
+</project>
